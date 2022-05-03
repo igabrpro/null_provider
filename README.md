@@ -11,7 +11,7 @@
 
 # ***How to use***
 #### 
-    Download the repo berchev/terraform_null_provider: git clone https://github.com/igabrpro/null_provider.git
+    Download the repo bigabrpro/null_provider git clone https://github.com/igabrpro/null_provider.git
     Change to terraform_null_provider: cd terraform_null_provider
     Type in your terminal terraform init in order to be downloaded required providers
     Type in your terminal terraform plan in order to see the changes which terraform is going to be made
